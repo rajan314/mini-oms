@@ -5,4 +5,4 @@ build/
 *.out
 .vscode/
 loop
-Notes/
+Notes/week2/stack_heap
