@@ -6,3 +6,6 @@ build/
 .vscode/
 loop
 Notes/week2/stack_heap
+
+week2/*
+!week2/*.cpp
