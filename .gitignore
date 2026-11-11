@@ -1,11 +1,16 @@
 # compiled output
 hello
+loop
 build/
 *.o
 *.out
-.vscode/
-loop
-Notes/week2/stack_heap
 
+# editor settings
+.vscode/
+
+# personal notes (private)
+Notes/
+
+# compiled programs in weekly folders: ignore everything except source files
 week2/*
 !week2/*.cpp
